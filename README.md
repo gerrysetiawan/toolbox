@@ -2,4 +2,4 @@
 
 sidecar container for troubleshooting purposes.
 
- - images: [ubi9-init](https://registry.access.redhat.com/ubi9/ubi-init)
+ - images: [ubi9-init](https://catalog.redhat.com/software/containers/ubi9-init/6183297540a2d8e95c82e8bd)
